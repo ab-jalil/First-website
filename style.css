@@ -39,3 +39,17 @@
 .categories img{
     width: 100px;
 }
+.card-wrapper{
+    display: flex;
+    gap: 30px;
+}
+.card{
+    padding: 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.crdbtn{
+    background-color: pink;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 5px;
+}
